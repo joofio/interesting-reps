@@ -30,6 +30,12 @@ Reps that are nice
 8. https://pythonrepo.com/tag/federated-learning_2
 9. https://medium.com/@ODSC/what-is-federated-learning-99c7fc9bc4f5
 10. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153050/
+11. https://analyticsindiamag.com/coding-tools-federated-learning/
+12. https://federated.withgoogle.com/
+13. https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_39.pdf
+14. https://www.geeksforgeeks.org/collaborative-learning-federated-learning/
+15. https://www.medrxiv.org/content/10.1101/2020.12.22.20245407v1.full
+
 
 ## Julia
 1. https://github.com/FluxML/model-zoo
