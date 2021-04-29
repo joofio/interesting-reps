@@ -3,6 +3,7 @@ Reps that are nice
 
 
 ## Federated Learning
+### Repositories
 1. https://github.com/IBM/federated-learning-lib
 2. https://github.com/mukeshmk/fm-learn
 3. https://github.com/OpenMined/PySyft
@@ -17,6 +18,9 @@ Reps that are nice
 12. https://github.com/weimingwill/awesome-federated-learning
 13. https://github.com/xaynetwork/xaynet
 
+### Papers
+1. https://blog.openmined.org/federated-credit-scoring/
+2. 
 ## Julia
 1. https://github.com/FluxML/model-zoo
 
