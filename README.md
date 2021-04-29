@@ -20,7 +20,9 @@ Reps that are nice
 
 ### Papers
 1. https://blog.openmined.org/federated-credit-scoring/
-2. 
+2. https://www.diva-portal.org/smash/get/diva2:1497137/FULLTEXT01.pdf
+3. https://www.ibm.com/docs/en/cloud-paks/cp-data/3.5.0?topic=cfletp-choosing-your-framework-fusion-method-hyperparameters-tech-preview
+4. 
 ## Julia
 1. https://github.com/FluxML/model-zoo
 
