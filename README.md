@@ -35,6 +35,8 @@ Reps that are nice
 13. https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_39.pdf
 14. https://www.geeksforgeeks.org/collaborative-learning-federated-learning/
 15. https://www.medrxiv.org/content/10.1101/2020.12.22.20245407v1.full
+16. https://federated.fastforwardlabs.com/
+17. https://www.kdnuggets.com/2020/04/federated-learning-introduction.html
 
 
 ## Julia
